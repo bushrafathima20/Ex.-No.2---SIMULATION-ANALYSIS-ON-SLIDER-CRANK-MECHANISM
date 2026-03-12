@@ -46,7 +46,7 @@
 ## Input:
 <img width="982" height="396" alt="Screenshot 2026-03-12 111300" src="https://github.com/user-attachments/assets/81a38fba-854a-4cd4-9ac7-ee8d532347d0" />
 
-## Output
+## Output:
 <img width="1172" height="645" alt="Screenshot 2026-03-12 111147" src="https://github.com/user-attachments/assets/55c70bfd-30bd-4326-97e3-ac96a4f68232" />
 <img width="361" height="591" alt="Screenshot 2026-03-12 111227" src="https://github.com/user-attachments/assets/56859782-fdcf-477d-9658-867a300dc02d" />
 
